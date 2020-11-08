@@ -1,0 +1,57 @@
+.a{
+    width: 340px;
+    padding: 20px;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.aa{
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.5px;;
+}
+
+span{
+    color: rgb(51, 94, 234);
+}
+
+.ab{
+    color: rgb(134, 154, 184);
+    letter-spacing: 0.5px;
+}
+
+.x{
+    position: relative;
+    right: -75px;
+}
+
+.ac{
+    letter-spacing: 0.5px;
+}
+
+.ad{
+    color: rgb(134, 154, 184);
+    letter-spacing: 0.5px;
+}
+
+.y{
+    position: relative;
+    right: -75px;
+}
+
+.ae{
+    letter-spacing: 0.5px;
+}
+
+.af{
+    color: rgb(134, 154, 184);
+    letter-spacing: 0.5px;
+}
+
+svg{
+    position: absolute;
+    left: 25px;
+}

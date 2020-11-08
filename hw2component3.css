@@ -1,0 +1,77 @@
+.a{
+   width: 390px;
+   padding: 10px;
+}
+
+.aa {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 29px;
+    color: rgb(22, 28, 45);
+    letter-spacing: 0.5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+span{
+    color: #42ba96;
+}
+.ab {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 48;
+    margin-top: 0px;
+    color: rgb(134, 154, 184);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.ac{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: 350400;
+    line-height: 29px;
+    color: #42ba96;
+    letter-spacing: 0.5px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 100px;
+    
+}
+
+.ad{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: 350400;
+    line-height: 29px;
+    color: #42ba96;
+    letter-spacing: 0.5px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 40px;
+    
+}
+
+.ae{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: 350400;
+    line-height: 29px;
+    color: #42ba96;
+    letter-spacing: 0.5px;
+    font-family: 'Open Sans', sans-serif;
+    margin-right: 119px;
+}
+
+.af{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: 350400;
+    line-height: 29px;
+    color: #42ba96;
+    letter-spacing: 0.5px;
+    font-family: 'Open Sans', sans-serif;
+}
